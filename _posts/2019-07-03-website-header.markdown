@@ -13,6 +13,6 @@ Regardless, I spent a large amount of time trying to decide if I wanted this ima
 
 I tried making it work with the background CSS property, but the image didn't want to appear at all. I assumed it was because the container I was trying to place the image into wasn't filled with content, so there was nothing for the background image to show up under. I struggled with this for a few more minutes before deciding just to test if the image would show up fine as an HTML `<img>` tag. It did!
 
-![A screenshot of the image appearing under the navigation bar.](https://imgur.com/a/DQ3vkhM)
+![A screenshot of the image appearing under the navigation bar.](https://i.imgur.com/4khDvWo.png)
 
 I never really expected adding a header image to be a great learning experience, since it seems so simple. Follow any tutorial you want on creating a landing page or some sort of profile page and it'll look very intuitive. But writing the thing yourself is definitely a humbling experience. 
