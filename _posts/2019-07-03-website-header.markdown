@@ -19,7 +19,7 @@ I tried making it work with the background CSS property, but the image didn't wa
 
 I never really expected adding a header image to be a great learning experience, since it seems so simple. Follow any tutorial you want on creating a landing page or some sort of profile page and it'll look very intuitive. In fact it'll take the teacher no more than a few minutes, usually. But writing the thing yourself is definitely a humbling experience. Especially when you decide you want to place text over the image.
 
-I decided that over the image I wanted the words "Web Developer" to show up in white. I'm not sure if I want to add more on top of that, but I wanted the words to look nice and big, using as few letters as possible. Placing it over the image wasn't too much of a problem. The issue was placing it over the image while having it be responsive.
+I decided that over the image I wanted the words "Web Developer" to show up in white. I also wanted the words to look nice and big. Centering it over the image wasn't too much of a problem. The issue was placing it over the image while having it be responsive.
 
 This was probably the largest sticking point I had when putting this together. I couldn't manage to figure out how to get the text to show up directly centered ontop of the image while also being responsive to any screen size. I must have been using the wrong Google search terms because nothing was showing up that made any sense. Somehow the easiest way to get this working looked like it would be by using LESS. I was apprehensive to use LESS since this seemed like a very small usecase to justify throwing in an entire CSS extension which I probably wouldn't use for the rest of the website.
 
@@ -27,7 +27,7 @@ This is where the fact that I was trying to create this in the morning before wo
 
 "What?" I say. "VW?"
 
-Turns out there's a whole type of CSS units that I wasn't even aware of! I toyed around with VW units for just a few minutes and boom.
+Turns out there's a whole type of CSS unit that I wasn't even aware of! I toyed around with VW units for just a few minutes and boom.
 
 ![A short gif of the text appearing perfectly over the image and showing its responsiveness.](https://i.imgur.com/QqGpHGv.gif)
 
