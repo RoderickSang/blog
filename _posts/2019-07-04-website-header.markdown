@@ -3,7 +3,7 @@ layout: post
 title: Adding My Site's Header Image
 ---
 
-So I completed my site's navigation bar and admittedly that took much longer to make than I thought it would. Writing your own code without a tutorial to follow really will humble you. But since I made it with Flexbox, at least it looks nicely spaced and is responsive! 
+I completed my site's navigation bar and admittedly that took much longer to make than I thought it would. Writing your own code without a tutorial to follow really will humble you. But since I made it with Flexbox, at least it looks nicely spaced and is responsive! 
 
 ![Here's a link to a gif to show what that looks like.](https://i.imgur.com/XehdTQM.gif) 
 
